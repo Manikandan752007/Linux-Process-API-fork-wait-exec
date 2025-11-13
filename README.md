@@ -67,6 +67,11 @@ int main() {
 
 ## OUTPUT :
 
+
+<img width="617" height="484" alt="Screenshot 2025-11-13 214824" src="https://github.com/user-attachments/assets/6be60592-ac5a-4594-96df-ab7c23060600" />
+
+
+
 ## C Program to create new process using Linux API system calls fork() and exit()
 ## CODE :
 ```
@@ -129,6 +134,19 @@ int main() {
 ```
 ## OUTPUT
 
+<img width="719" height="299" alt="Screenshot 2025-11-13 214901" src="https://github.com/user-attachments/assets/72575ae5-27a5-4fa1-8fd3-18e36c734155" />
+
+
+<img width="728" height="770" alt="Screenshot 2025-11-13 215128" src="https://github.com/user-attachments/assets/96c0e84e-0503-4b1c-a6f9-4f07fbb69f07" />
+
+<img width="717" height="751" alt="Screenshot 2025-11-13 215214" src="https://github.com/user-attachments/assets/d57b1c33-79f3-4eb9-9a4a-3f7007f7fc93" />
+
+
+<img width="821" height="757" alt="Screenshot 2025-11-13 215231" src="https://github.com/user-attachments/assets/8f029a27-e8e1-4e1c-b03b-a030e2b38cd4" />
+
+
+
+
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ## CODE
@@ -182,6 +200,10 @@ int main() {
 ```
 
 ## OUTPUT
+
+<img width="838" height="310" alt="Screenshot 2025-11-13 215351" src="https://github.com/user-attachments/assets/5044d2c9-1a12-416d-9032-84a14cfc8e08" />
+
+
 
 # RESULT:
 The programs are executed successfully.
